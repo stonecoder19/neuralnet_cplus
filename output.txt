@@ -1,0 +1,74 @@
+Neruon 0 weight 0 is 0
+Neruon 0 weight 1 is -3
+Neruon 0 weight 2 is 3
+Neruon 0 weight 3 is -3
+Activation is -3
+Output: 0
+
+
+Neruon 1 weight 0 is -3
+Neruon 1 weight 1 is 0
+Neruon 1 weight 2 is -3
+Neruon 1 weight 3 is 3
+Activation is 0
+Output: 0
+
+
+Neruon 2 weight 0 is 3
+Neruon 2 weight 1 is -3
+Neruon 2 weight 2 is 0
+Neruon 2 weight 3 is -3
+Activation is -3
+Output: 0
+
+
+Neruon 3 weight 0 is -3
+Neruon 3 weight 1 is 3
+Neruon 3 weight 2 is -3
+Neruon 3 weight 3 is 0
+Activation is 3
+Output: 1
+
+
+Pattern[0]is 0 Ouput[0]is 0Matched
+Pattern[1]is 1 Ouput[1]is 0Discrepancy occured
+Pattern[2]is 0 Ouput[2]is 0Matched
+Pattern[3]is 0 Ouput[3]is 1Discrepancy occured
+
+
+Neruon 0 weight 0 is 0
+Neruon 0 weight 1 is -3
+Neruon 0 weight 2 is 3
+Neruon 0 weight 3 is -3
+Activation is -6
+Output: 0
+
+
+Neruon 1 weight 0 is -3
+Neruon 1 weight 1 is 0
+Neruon 1 weight 2 is -3
+Neruon 1 weight 3 is 3
+Activation is 3
+Output: 1
+
+
+Neruon 2 weight 0 is 3
+Neruon 2 weight 1 is -3
+Neruon 2 weight 2 is 0
+Neruon 2 weight 3 is -3
+Activation is -6
+Output: 0
+
+
+Neruon 3 weight 0 is -3
+Neruon 3 weight 1 is 3
+Neruon 3 weight 2 is -3
+Neruon 3 weight 3 is 0
+Activation is 3
+Output: 1
+
+
+Pattern[0]is 0 Ouput[0]is 0 Matched
+Pattern[1]is 1 Ouput[1]is 1 Matched
+Pattern[2]is 0 Ouput[2]is 0 Matched
+Pattern[3]is 1 Ouput[3]is 1 Matched
